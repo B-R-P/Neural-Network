@@ -1,2 +1,2 @@
 # Neural-Network
-Neural Network made from scractch
+Neural Network made from scratch
