@@ -1,5 +1,5 @@
 # Neural-Network
 Neural Network made from scratch
 
-Code may not be correct.It will be corrected soon.
-But it works.You can try it.
+I made it for learning<br>
+If you find mistakes please inform.
