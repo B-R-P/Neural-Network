@@ -14,8 +14,6 @@ This project demonstrates core concepts—forward propagation, backpropagation, 
 - Manual forward propagation and backpropagation  
 - Multi-threaded neuron computation for acceleration  
 
----
-
 ## Requirements
 
 - Python 3.7+  
@@ -23,7 +21,6 @@ This project demonstrates core concepts—forward propagation, backpropagation, 
 - tqdm  
 - Numba (optional, for JIT compilation speedups)  
 
----
 
 ## Installation
 
@@ -32,8 +29,6 @@ git clone https://github.com/B-R-P/Neural-Network.git
 cd Neural-Network
 pip install numpy tqdm numba
 ```
-
----
 
 ## Usage
 
@@ -90,7 +85,6 @@ save_model(net, 'mymodel.zip')
 loaded_net = regain_model('mymodel.zip')
 ```
 
----
 
 ## API Reference
 
